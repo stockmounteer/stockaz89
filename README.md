@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @stockaz89
+- 👋 Hi, I’m @stockmounteer
 - 👀 I'm currently working towards my Bachelors of Computer Science
 - 📫 EMAIL: stockaz89@icloud.com
