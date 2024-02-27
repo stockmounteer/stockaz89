@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @stockmounteer
-- 👀 I'm currently working towards my Bachelors of Computer Science at Arizona State University
-- 📫 EMAIL: stockmounteer@gmail.com
+
